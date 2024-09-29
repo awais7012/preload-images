@@ -9,7 +9,7 @@ You can install the package via npm:
 ```bash
 npm install preload-images
 ```
-###Usage
+**Usage**
 ```bash
 const ImagePreloader = require('your-package-name');
 
@@ -20,11 +20,13 @@ preloader.preload((images) => {
     console.log('All images preloaded:', images);
     // You can now use the preloaded images
 });
-##Constructor
+
+```
+**Constructor**
 ImagePreloader(maxIndex)
 maxIndex: The total number of images to preload.
-##Methods
+**Methods**
 preload(callback)
 callback: A function that gets called once all images are loaded, receiving the array of preloaded images as a parameter.
-Contributing
+**Contributing**
 Contributions are welcome! Please fork the repository and submit a pull request.
