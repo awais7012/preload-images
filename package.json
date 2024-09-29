@@ -1,0 +1,20 @@
+{
+  "name": "preload-img1",
+  "version": "1.0.0",
+  "description": "A professional image preloader for JavaScript.",
+  "main": "preload.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["preload", "images", "loader"],
+  "author": "Awais",
+  "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/awais7012/preload-images.git"
+  },
+  "homepage": "https://github.com/awais7012/preload-images#readme",
+  "bugs": {
+      "url": "https://github.com/awais7012/preload-images/issues"
+  }
+}
