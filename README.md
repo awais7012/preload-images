@@ -10,7 +10,7 @@ You can install the package via npm:
 npm install preload-images
 ```
 ###Usage
-
+```bash
 const ImagePreloader = require('your-package-name');
 
 const maxImages = 190; // Adjust based on your images
