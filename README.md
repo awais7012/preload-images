@@ -22,11 +22,11 @@ preloader.preload((images) => {
 });
 
 ```
-**Constructor**
-ImagePreloader(maxIndex)
+##**Constructor**
+###ImagePreloader(maxIndex)
 maxIndex: The total number of images to preload.
-**Methods**
-preload(callback)
+##**Methods**
+###preload(callback)
 callback: A function that gets called once all images are loaded, receiving the array of preloaded images as a parameter.
-**Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request.
+##**Contributing**
+###Contributions are welcome! Please fork the repository and submit a pull request.
