@@ -22,7 +22,7 @@ preloader.preload((images) => {
 });
 
 ```
-##**Constructor**
+**##Constructor**
 ###ImagePreloader(maxIndex)
 maxIndex: The total number of images to preload.
 ##**Methods**
