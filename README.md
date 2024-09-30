@@ -7,11 +7,11 @@ A professional image preloader for JavaScript.
 You can install the package via npm:
 
 ```bash
-npm install preload-images
+npm install preload-img1
 ```
 **Usage**
 ```bash
-const ImagePreloader = require('your-package-name');
+const ImagePreloader = require('preload-img1');
 
 const maxImages = 190; // Adjust based on your images
 const preloader = new ImagePreloader(maxImages);
